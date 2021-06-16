@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Udit Prasad
+### Hi there 👋 I'm Udit Prasad, Freshman @ CSE IIT Kanpur
 
 
 
