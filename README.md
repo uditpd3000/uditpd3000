@@ -8,6 +8,12 @@
 - 👀 I am interested in Web Development and Information Security 🐥
 -  ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
 
+[![Udit's github stats](https://github-readme-stats.vercel.app/api?username=uditpd3000)](https://github.com/uditpd3000/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/uditpd3000/github-readme-stats)
+<br>
+![](https://komarev.com/ghpvc/?username=uditpd3000)
+
+
 <!--
 **uditpd3000/uditpd3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
