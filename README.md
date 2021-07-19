@@ -3,14 +3,17 @@
 
 
 
-- 🌱 I’m currently learning C,C++,Python,JS....hmm
+- 🌱 I’m currently exploring Web development and Machine Learning
 - 📫 You can reach out to me through email: uditp20@iitk.ac.in
-- 👀 I am interested in Web Development and Information Security 🐥
--  ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
+- 👀 Interested in Web Development and Information Security🐥
+- ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
+<br>
 
 [![Udit's github stats](https://github-readme-stats.vercel.app/api?username=uditpd3000)](https://github.com/uditpd3000/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/uditpd3000/github-readme-stats)
 <br>
+
+
 ![](https://komarev.com/ghpvc/?username=uditpd3000)
 
 
