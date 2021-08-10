@@ -9,8 +9,8 @@
 - ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
 <br>
 
-[![Udit's github stats](https://github-readme-stats.vercel.app/api?username=uditpd3000)](https://github.com/uditpd3000/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/uditpd3000/github-readme-stats)
+[![Udit's github stats](https://github-readme-stats.vercel.app/api?username=uditpd3000)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)]
 <br>
 
 
