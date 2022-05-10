@@ -3,9 +3,8 @@
 
 
 
-- 🌱 I’m currently exploring Web development and Machine Learning
+- 🌱 I’m currently exploring Full stack development and and .....
 - 📫 You can reach out to me through email: uditp20@iitk.ac.in
-- 👀 Interested in Web Development🐥
 - ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
 <br>
 
@@ -20,4 +19,4 @@
 <!--
 **uditpd3000/uditpd3000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
