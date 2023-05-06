@@ -1,9 +1,9 @@
-### Hi there 👋 I'm Udit Prasad, Sophomore @ CSE IIT Kanpur
+### Hi there 👋 I'm Udit Prasad, senior @ CSE IIT Kanpur
 
 
 
 
-- 🌱 I’m currently exploring Full stack development and and .....
+- 🌱 I’m interested in CSE core topics and any other programming stuff
 - 📫 You can reach out to me through email: uditp20@iitk.ac.in
 - ⚡ I may look normal but deepdown i am full of bugs(wanna contribute? 😁)
 <br>
