@@ -9,7 +9,8 @@
 <br>
 
 <!-- ![Udit's github stats](https://github-readme-stats.vercel.app/api?username=uditpd3000) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uditpd3000&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uditpd3000&layout=compact&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats-q9ew-git-master-aarchie-r.vercel.app/api?username=uditpd3000&show_icons=true&theme=tokyonight)
 <br>
 
 
